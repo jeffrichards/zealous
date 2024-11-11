@@ -32,6 +32,12 @@
     <loc>http://localhost:1313/categories/place-names/</loc>
     <lastmod>2024-11-09T11:38:31-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/uplifting/encourager/</loc>
+    <lastmod>2024-10-10T11:38:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/uplifting/</loc>
+    <lastmod>2024-10-10T11:38:31-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/maps/errington-bc/</loc>
     <lastmod>2024-11-09T11:38:31-08:00</lastmod>
   </url><url>
@@ -47,11 +53,23 @@
     <loc>http://localhost:1313/posts/maps/hammerfest/</loc>
     <lastmod>2024-11-09T11:31:30-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/fun/cranky/</loc>
+    <lastmod>2024-07-11T11:38:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fishing/</loc>
+    <lastmod>2024-07-11T11:38:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/fun/</loc>
+    <lastmod>2024-07-11T11:38:31-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/maps/lasqueti-island/</loc>
     <lastmod>2024-11-09T11:31:30-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/maps/quadra-island/</loc>
     <lastmod>2024-11-09T11:31:30-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/uplifting/you-are-loved/</loc>
+    <lastmod>2023-06-07T11:38:31-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/maps/vancouver-island/</loc>
     <lastmod>2024-11-09T11:38:31-08:00</lastmod>
@@ -80,8 +98,17 @@
     <loc>http://localhost:1313/posts/maps/denman-and-hornby/</loc>
     <lastmod>2024-11-09T11:38:31-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/uplifting/kindness/</loc>
+    <lastmod>2022-02-22T11:38:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/uplifting/mental-stillness/</loc>
+    <lastmod>2022-02-17T11:38:31-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/maps/vancouver-island-outline/</loc>
     <lastmod>2024-11-09T11:38:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/uplifting/thankful-for-adoption/</loc>
+    <lastmod>2021-12-07T11:38:31-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fish-print/</loc>
     <lastmod>2021-10-14T11:38:31-08:00</lastmod>

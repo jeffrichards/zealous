@@ -12,6 +12,7 @@ categories:
   - nature
 tags:
   - fish print
+  - fishing
 # nolastmod: true
 ---
 
