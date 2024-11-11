@@ -1,11 +1,8 @@
-baseurl = "https://zealousfashion.com"
+baseurl = "https://example.com"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Zealous Fashion"
-theme = "dream"
-
-[permalinks]
-    categories =  "/:section/:slug"
+title = "Hugo Theme Dream"
+theme = "hugo-theme-dream"
 
 # [services]
 # [services.disqus]
@@ -22,11 +19,11 @@ darkTheme = "forest"
 # backgroundImage = "me/background.jpg"
 # backgroundImageDark = ""
 
-author = "Heather"
+author = "Dream"
 # description = ""
-avatar = "images/zealous.jpg"
-headerTitle = "Zealous Fashion"
-motto = "Screen Printing and Custom Clothing Prints in Nanaimo, BC "
+# avatar = "img/avatar.png"
+headerTitle = "Hugo Theme Dream"
+# motto = ""
 
 # footerBottomText = ""
 
@@ -43,9 +40,9 @@ motto = "Screen Printing and Custom Clothing Prints in Nanaimo, BC "
 
 # email = ""
 
-siteStartYear = 2017
+siteStartYear = 2016
 
-favicon = "favicon.ico"
+# favicon = "favicon.ico"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
@@ -56,7 +53,7 @@ favicon = "favicon.ico"
 # collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
 # showTableOfContents = true
-showSummaryCoverInPost = true
+# showSummaryCoverInPost = true
 # showPrevNextPost = true
 # reorderShares = ["x", "facebook", "whatsapp"]
 
@@ -68,4 +65,4 @@ showSummaryCoverInPost = true
 
 # [params.experimental]
 # jsDate = true
-# jsDateFormat = "yyyy-MM-dd"
+# jsDateFormat = "yyyy年MM月dd日"
