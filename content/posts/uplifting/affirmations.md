@@ -1,20 +1,17 @@
 ---
-title: Affirmations!
-date: 2023-11-28T11:38:31-08:00
-cover: /designs/uplifting/affirmations.webp
+title: Love Print!
+date: 2023-04-14T11:38:31-08:00
+cover: /designs/uplifting/love.jpg
 categories:
   - uplifting
 tags:
-  - healthy role models
 ---
 
-"You are enough.
-You are needed.
-You are capable.
-You are loved."
+Do you like spreading a little love! 💕
 
-Happy Hearted Finished Pieces!
-Spread the love with some real good hugs and cozy times 🤎
+Message me to order yours!👍🌊🌸❤️
+
+Spread a little love lovelies, everywhere you go! 💛
 
 <!--more-->
-[Order on Etsy](https://www.etsy.com/ca/listing/1639972032/affirmations-dark-chocolate-brown-hoodie)
+[Message me on Instagram](https://www.instagram.com/p/CrCQVu1PJLX/)
