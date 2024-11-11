@@ -5,6 +5,7 @@ cover: /designs/uplifting/kindness.png
 categories:
   - uplifting
 tags:
+  - pink shirt day
 ---
 
 Need a pink shirt for...tomorrow's Pink Shirt Day?!
