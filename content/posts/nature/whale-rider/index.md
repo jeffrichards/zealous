@@ -5,7 +5,7 @@ date: 2021-03-04T11:38:31-08:00
 #author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /designs/nature/whale-rider.jpg
+cover: whale-rider.jpg
 #images:
 #   - /designs/place-names/nanaimo-places.webp
 categories:
