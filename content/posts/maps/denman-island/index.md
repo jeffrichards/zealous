@@ -4,7 +4,7 @@ date: 2024-08-15T11:31:30-08:00
 lastmod: 2024-11-09T11:31:30-08:00
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /designs/map-series/denman.jpg
+cover: denman.jpg
 # images:
 #   - /img/cover.jpg
 categories:
