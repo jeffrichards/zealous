@@ -1,7 +1,7 @@
 ---
 title: Affirmations
 date: 2023-04-14T11:38:31-08:00
-cover: affirmations.jpg
+cover: affirmations.webp
 categories:
   - uplifting
 tags:
