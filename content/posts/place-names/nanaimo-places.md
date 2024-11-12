@@ -5,9 +5,7 @@ lastmod: 2024-11-09T11:38:31-08:00
 #author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /designs/place-names/nanaimo-places.webp
-images:
-   - /designs/place-names/nanaimo-places.webp
+cover: /designs/place-names/nanaimo-places.jpg
 categories:
   - place names
 tags:

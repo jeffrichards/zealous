@@ -2,10 +2,7 @@
 title: Island Life prints for gifts!
 date: 2024-11-09T11:14:29-08:00
 lastmod: 2024-11-09T11:14:29-08:00
-cover: /posts/island-life/island-life-1.jpg
-images:
-  - /posts/island-life/island-life-1.jpg
-  - /posts/island-life/island-life-2.jpg
+cover: /designs/map-series/island-life-1.jpg
 categories:
   - maps
 tags:

@@ -15,9 +15,9 @@ jobs:
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@main
         env:
-          HUGO_VERSION: 0.88.0
+          HUGO_VERSION: 0.138.0
           TARGET_REPO: jeffrichards/zealous
           TARGET_BRANCH: main
           TOKEN: ${{ secrets.TOKEN }}
-          HUGO_ARGS: 'build'
+          HUGO_ARGS: ''
           CNAME: zealous.github.io
