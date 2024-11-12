@@ -1,7 +1,7 @@
 ---
 title: Peace
 date: 2023-10-04T11:38:31-08:00
-cover: /designs/fun/peace-sign.png
+cover: peace-sign.png
 categories:
   - fun
 tags:

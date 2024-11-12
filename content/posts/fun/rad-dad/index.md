@@ -1,7 +1,7 @@
 ---
 title: Rad Dad
 date: 2023-06-05T11:38:31-08:00
-cover: /designs/fun/rad-dad.jpg
+cover: rad-dad.jpg
 categories:
   - fun
 tags:
