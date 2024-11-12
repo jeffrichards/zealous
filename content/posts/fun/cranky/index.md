@@ -1,7 +1,7 @@
 ---
 title: Cranky!
 date: 2024-07-11T11:38:31-08:00
-cover: /designs/fun/cranky.jpg
+cover: cranky.jpg
 categories:
   - fun
 tags:

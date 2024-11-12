@@ -1,7 +1,7 @@
 ---
 title: I Like Big Trucks
 date: 2022-10-11T11:38:31-08:00
-cover: /designs/fun/big-trucks.jpg
+cover: big-trucks.jpg
 categories:
   - fun
 tags:
