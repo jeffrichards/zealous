@@ -5,6 +5,7 @@ cover: rad-dad.jpg
 categories:
   - fun
 tags:
+  - family
 ---
 
 "Rad Dad" shirts are back!!
