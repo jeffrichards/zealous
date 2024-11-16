@@ -1,7 +1,7 @@
 ---
 title: Be Kind, Be Brave, Be Bold
 date: 2024-11-16T11:38:31-08:00
-cover: kind-brave-bold.png
+cover: kind-brave-bold.jpg
 categories:
   - uplifting
 tags:
