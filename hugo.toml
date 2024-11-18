@@ -6,6 +6,7 @@ theme = "dream"
 
 [permalinks]
     categories =  "/:section/:slug"
+    posts = "clothing-prints/:title"
 
 # [services]
 # [services.disqus]
@@ -60,7 +61,8 @@ showSummaryCoverInPost = true
 # showPrevNextPost = true
 # reorderShares = ["x", "facebook", "whatsapp"]
 
-# [params.navItems]
+[params.navItems]
+nanaimo = { href = "/nanaimo", icon = "location", title = "Nanaimo" }
 
 # [params.advanced]
 # customCSS = ["css/custom.css"]

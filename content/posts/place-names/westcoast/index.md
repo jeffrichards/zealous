@@ -1,5 +1,5 @@
 ---
-title: Nanaimo
+title: WestCoast
 date: 2024-11-06T11:38:31-08:00
 
 #author: Author Name
