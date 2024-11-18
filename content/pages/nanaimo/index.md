@@ -10,7 +10,7 @@ images:
   - nanaimo-with-love.jpg
 ---
 
-Screenprinting Based in Nanaimo since 2017 and loving it.  
+Screenprinting Based in Nanaimo since 2017 and loving it.
 
 I've been in this city for ages.  I've got a suite of [Nanaimo based prints](./tags/nanaimo/) for those that are also falling in love with this city and want to represent.  The perfect bit of clothing to keep your time here fresh.
 
