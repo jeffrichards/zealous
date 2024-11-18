@@ -63,7 +63,7 @@ showSummaryCoverInPost = true
 # reorderShares = ["x", "facebook", "whatsapp"]
 
 [params.navItems]
-nanaimo = { href = "/nanaimo", icon = "location", title = "Nanaimo" }
+nanaimo = { href = "/nanaimo-screen-printing", icon = "location", title = "Nanaimo" }
 
 # [params.advanced]
 # customCSS = ["css/custom.css"]

@@ -1,11 +1,12 @@
 ---
-title: Nanaimo Based Screen Printing
+title: Nanaimo! Screen Printing!
 date: 2024-11-16T11:38:31-08:00
 
 #author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 # nolastmod: true
+slug: nanaimo-screen-printing
 images: 
   - nanaimo-with-love.jpg
 ---
