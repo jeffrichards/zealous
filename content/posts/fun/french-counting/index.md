@@ -1,7 +1,7 @@
 ---
 title: Un Deux Trois Cat
 date: 2024-07-11T11:38:31-08:00
-cover: UnDeuxTroisCat.jpg
+cover: UnDeuxTroisCat.jpeg
 categories:
   - fun
 tags:
