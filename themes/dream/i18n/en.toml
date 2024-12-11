@@ -25,6 +25,10 @@ socialLinks = "Social Links"
 one = "1 article"
 other = "{{ .Count }} articles"
 
+[design]
+one = "1 design"
+other = "{{ .Count }} designs"
+
 [category]
 one = "1 category"
 other = "{{ .Count }} categories"
