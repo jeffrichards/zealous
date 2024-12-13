@@ -72,3 +72,7 @@ nanaimo = { href = "/nanaimo-screen-printing", icon = "location", title = "Nanai
 # [params.experimental]
 # jsDate = true
 # jsDateFormat = "yyyy-MM-dd"
+
+
+[markup.goldmark.renderer]
+  unsafe = true
