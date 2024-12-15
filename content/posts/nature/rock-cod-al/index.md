@@ -36,7 +36,7 @@ How good does it feel to be at the beach, hearing the water move, feeling the fr
     </tr>
     <tr>
       <td>
-        <select name="os0">
+        <select name="os0" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto">
           <option value="Women&#39;s T-shirt">
             Women&#39;s T-shirt $25.00 CAD
           </option>
@@ -66,7 +66,7 @@ How good does it feel to be at the beach, hearing the water move, feeling the fr
     </tr>
     <tr>
       <td>
-        <select name="os1">
+        <select name="os1" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto">
           <option value="Small">
             Small
           </option>
@@ -93,7 +93,7 @@ How good does it feel to be at the beach, hearing the water move, feeling the fr
     </tr>
     <tr>
       <td>
-        <select name="os2">
+        <select name="os2" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto">
           <option value="Black">
             Black
           </option>
@@ -135,7 +135,7 @@ How good does it feel to be at the beach, hearing the water move, feeling the fr
     </tr>
     <tr>
       <td>
-        <input type="text" name="os3" style="border-width:1px" maxLength="500" />
+        <input type="text" name="os3" style="border-width:1px" maxLength="500" class="input input-bordered"/>
       </td>
     </tr>
     
