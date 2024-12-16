@@ -51,7 +51,7 @@
       {{ template "_internal/schema.html" . }}
 
       <header>
-        <h1 itemprop="headline">{{ .Title }}</h1>
+        <h1 id="title" itemprop="headline">{{ .Title }}</h1>
       </header>
 
       {{ if and .Params.Cover site.Params.showSummaryCoverInPost }}

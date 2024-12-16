@@ -1,0 +1,147 @@
+<h2 id="order_now"> Order Now!</h2>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="HX29CRW3KYGQQ" />
+  <table class="not-prose">
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Style"/>
+        Style
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select id="os0" name="os0" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
+          <option value="Women&#39;s T-shirt">
+            Women&#39;s T-shirt $25.00 CAD
+          </option>
+          <option value="Men&#39;s T-shirt">
+            Men&#39;s T-shirt $25.00 CAD
+          </option>
+          <option value="Youth T-shirt">
+            Youth T-shirt $25.00 CAD
+          </option>
+          <option value="Women&#39;s Hoodie">
+            Women&#39;s Hoodie $60.00 CAD
+          </option>
+          <option value="Men&#39;s Hoodie">
+            Men&#39;s Hoodie $60.00 CAD
+          </option>
+          <option value="Youth Hoodie">
+            Youth Hoodie $60.00 CAD
+          </option>
+        </select>
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <input type="hidden" name="on1" value="Size"/>
+        Size
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select id="os1" name="os1" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
+          <option value="Small">
+            Small
+          </option>
+          <option value="Medium">
+            Medium
+          </option>
+          <option value="Large">
+            Large
+          </option>
+          <option value="XL">
+            XL
+          </option>
+          <option value="2XL">
+            2XL
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on2" value="Color"/>
+        Color
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <select id="os2" name="os2" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
+          <option value="Black">
+            Black
+          </option>
+          <option value="Grey">
+            Grey
+          </option>
+          <option value="Green">
+            Green
+          </option>
+          <option value="Red">
+            Red
+          </option>
+          <option value="Maroon">
+            Maroon
+          </option>
+          <option value="Navy">
+            Navy
+          </option>
+          <option value="Heather Grey">
+            Heather Grey
+          </option>
+          <option value="Charcoal Grey">
+            Charcoal Grey
+          </option>
+          <option value="Royal Blue">
+            Royal Blue
+          </option>
+          <option value="Heather Blue">
+            Heather Blue
+          </option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="hidden" name="on3" value="Customizations and Notes"/>
+        Customizations and Notes
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="text" name="os3" style="border-width:1px" maxLength="500" class="input input-bordered"/>
+      </td>
+    </tr>
+    
+  </table>
+  <input type="hidden" id ="item_name" name="item_name" value="Print Name">
+  <input type="hidden" id ="os4" name="os4" value="Print Name">
+  <input type="hidden" name="currency_code" value="CAD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" onClick="updateItemName()"/>
+  <div>Shipping Costs Calculated at Checkout</div>
+  <script>
+    let designName = document.getElementById("title");
+    let designNameField = document.getElementById("os4");
+    designNameField.setAttribute('value',designName.innerText)
+
+    function updateItemName() {
+      let design = document.getElementById("title");
+      let shirtStyle = document.getElementById("os0");
+      let shirtSize = document.getElementById("os1");
+      let shirtColor = document.getElementById("os2");
+      let itemName = document.getElementById("item_name");
+      console.log(
+        design.innerText + " " + 
+        shirtStyle.options[shirtStyle.selectedIndex].value + " " + 
+        shirtSize.options[shirtSize.selectedIndex].value + " " + 
+        shirtColor.options[shirtColor.selectedIndex].value
+      )
+      itemName.setAttribute('value', 
+        design.innerText + " " + 
+        shirtStyle.options[shirtStyle.selectedIndex].value + " " + 
+        shirtSize.options[shirtSize.selectedIndex].value + " " + 
+        shirtColor.options[shirtColor.selectedIndex].value
+      )
+    }
+  </script>
