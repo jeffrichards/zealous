@@ -14,4 +14,4 @@ tags:
 Ladysmith, 49th Parallel.
 
 <!--more-->
-[Order on Etsy](https://www.etsy.com/ca/listing/1617408591/ladysmith-coordinates-t-shirt)
+{{< orderform >}}

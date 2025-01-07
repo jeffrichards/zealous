@@ -12,4 +12,4 @@ Zealous for #TheGood
 Life is heavy sometimes, we need reminders to remember the good things in life.
 
 <!--more-->
-[Message me on Instagram](https://www.instagram.com/p/CQO7NOdt4Mh/)
+{{< orderform >}}

@@ -16,4 +16,4 @@ In all the hustle bustle, take a minute. Know this, and also tell people. People
 You Are Loved!
 
 <!--more-->
-[Order on Etsy](https://www.etsy.com/ca/listing/1070707087/you-are-loved-hoodies)
+{{< orderform >}}

@@ -11,4 +11,4 @@ Zealous for Schools! École Oceane! Teaser... school hoodie fundraiser coming up
 <!--more-->
 
 
-[Order it on Etsy](https://www.etsy.com/ca/listing/940802843/ecole-oceane-youth-crew-neck-sweatshirt)
+{{< orderform >}}

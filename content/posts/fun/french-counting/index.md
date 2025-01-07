@@ -13,5 +13,4 @@ French is fun
 
 <!--more-->
 
-
-[Contact me on Instagram to Order](https://www.instagram.com/p/DDNiu58SiYh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+{{< orderform >}}

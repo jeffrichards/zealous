@@ -11,4 +11,4 @@ Prints for Dance Academy! Tempo Dance Academy!
 <!--more-->
 
 
-[Order it on Etsy](https://www.etsy.com/ca/listing/1793605681/tempo-t-shirt)
+{{< orderform >}}

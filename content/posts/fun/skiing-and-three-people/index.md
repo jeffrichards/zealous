@@ -13,4 +13,4 @@ Here's to supporting local ski hills and other local businesses this Christmas s
 <!--more-->
 
 
-[Contact me on Instagram to Order](https://www.instagram.com/p/CI_fkMLD1Vh/)
+{{< orderform >}}

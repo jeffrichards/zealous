@@ -16,4 +16,5 @@ Am I the only one feeling the need to get some presents in order so I am not scr
 <!--more-->
 
 Maybe it's just me, but if you are planning ahead, these are great prezzies. T-shirts and tanks available $25 each
-Have an awesome day on this beautiful island of ours! [Contact me on Instagram!](https://www.instagram.com/p/DBema7aS4_4/?hl=en&img_index=1)
+Have an awesome day on this beautiful island of ours! 
+{{< orderform >}}

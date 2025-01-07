@@ -20,4 +20,5 @@ Look at these 'Promised Land' prints in a deep teal and grey. Long sleeves are i
 
 <!--more-->
 Design by [Patrick Kuhn](https://www.instagram.com/patrickkuhn.art/?hl=en)
-[Order on Etsy](https://www.etsy.com/ca/listing/1459706868/promised-land-crew-neck-sweatshirt)
+
+{{< orderform >}}

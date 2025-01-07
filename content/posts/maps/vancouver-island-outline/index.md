@@ -23,6 +23,4 @@ I am super pumped on this print because you can find itty bitty special islands.
 
 <!--more-->
 
-[Order on Etsy for women](https://www.etsy.com/ca/listing/1171395059/vancouver-island-hoodie-womens)
-
-[Order on Etsy for men](https://www.etsy.com/ca/listing/1171393197/vancouver-island-hoodie-mens)
+{{< orderform >}}

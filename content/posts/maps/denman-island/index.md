@@ -19,5 +19,5 @@ Denman! I see you, you sneaky island you! Everyone just does a quick drive over 
 
 <!--more-->
 
-[Contact me on Instagram to order!](https://www.instagram.com/p/C-tBDymyxAN/)
+{{< orderform >}}
 

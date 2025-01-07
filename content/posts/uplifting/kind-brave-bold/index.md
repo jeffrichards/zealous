@@ -16,4 +16,4 @@ Love Heather
 💓
 
 <!--more-->
-[Order by getting in touch with ZealousFashion on Instagram ](https://www.instagram.com/p/DCccicbSfWl/)
+{{< orderform >}}

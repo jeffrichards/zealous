@@ -21,4 +21,4 @@ This was a cool mapping shirt I made because I incorporated rivers (thicker line
 <!--more-->
 
 
-[Contact me on Instagram to Order](https://www.instagram.com/p/DAZMyonzt8R/)
+{{< orderform >}}

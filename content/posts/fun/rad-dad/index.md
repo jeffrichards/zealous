@@ -15,4 +15,4 @@ Available in all sizes and colours, even in ice dye!
 <!--more-->
 
 
-[Contact me on Instagram to Order](https://www.instagram.com/p/CtHsmkNPtxS/)
+{{< orderform >}}

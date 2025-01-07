@@ -19,10 +19,6 @@ Hardwicke Island has a special place in my heart, and it is a little piece of he
 
 Do you have a special island or location you'd like to request?
 
-T shirts (women's or unisex style) $25
-Crewneck sweatshirts $40
-Hoodies $45
-
 <!--more-->
 
-[Contact me on Instagram to order!](https://www.instagram.com/p/C-dMY79vcEJ/)
+{{< orderform >}}

@@ -25,4 +25,4 @@ Where are you excited to hit up on Vancouver Island this summer? I wanna hear!
 <!--more-->
 
 
-[Contact me on Instagram to Order](https://www.instagram.com/zealousfashion/p/CsZRQwgPj6L)
+{{< orderform >}}

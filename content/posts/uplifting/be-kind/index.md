@@ -14,4 +14,4 @@ I had a request to make this super cute "be kind" design, so I thought I would p
 Message me your size/style/design choice to get yours💗!
 
 <!--more-->
-[Contact my on Instagram to Order](https://www.instagram.com/p/Cn98PNCPM35/)
+{{< orderform >}}

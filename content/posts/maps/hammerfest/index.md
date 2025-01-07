@@ -20,4 +20,4 @@ Who has ridden on these awesome trails? Can anyone name a trail??? Dare ya to tr
 
 <!--more-->
 
-[Contact me on Instagram to order!](https://www.instagram.com/p/C9Nd-QPPew1/)
+{{< orderform >}}

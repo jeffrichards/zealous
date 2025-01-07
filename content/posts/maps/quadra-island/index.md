@@ -22,4 +22,4 @@ Tell me if you have been and what your favourite thing about Quadra is? Rebecca 
 
 <!--more-->
 
-[Contact me on Instagram to order!](https://www.instagram.com/p/C9DdS_Ayd-P/)
+{{< orderform >}}

@@ -14,5 +14,4 @@ It makes me happy every dang time I lift the screen!
 
 <!--more-->
 
-
-[Contact me on Instagram to Order](https://www.instagram.com/p/CyAPgC-LiH0/)
+{{< orderform >}}

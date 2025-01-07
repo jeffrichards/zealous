@@ -23,4 +23,4 @@ Tell me something S'Wonderful about #Nanaimo 🩵
 I think it's S'Wonderful we stroll #PipersLagoon so peacefully on a lovely Friday in March 🌸
 
 <!--more-->
-[Contact me on Instagram to Order](https://www.instagram.com/p/CqMFoY2jUaC)
+{{< orderform >}}

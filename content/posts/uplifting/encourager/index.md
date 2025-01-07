@@ -12,4 +12,4 @@ Encourager Print!!
 You can do it, whatever it is, give it a go!
 
 <!--more-->
-[Contact my on Instagram to Order](https://www.instagram.com/p/DA9HXXnSmN7/)
+{{< orderform >}}

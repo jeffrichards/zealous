@@ -14,4 +14,4 @@ Message me to order yours!👍🌊🌸❤️
 Spread a little love lovelies, everywhere you go! 💛
 
 <!--more-->
-[Message me on Instagram](https://www.instagram.com/p/CrCQVu1PJLX/)
+{{< orderform >}}

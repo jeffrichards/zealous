@@ -23,4 +23,4 @@ I am such an ocean girl, I just want to see it, breathe it, be on it, feel it. I
 What is your fav spot on our island of beauty?
 
 <!--more-->
-[Order on Etsy](https://www.etsy.com/ca/listing/1002907304/nanaimo-places-muscle-tank)
+{{< orderform >}}

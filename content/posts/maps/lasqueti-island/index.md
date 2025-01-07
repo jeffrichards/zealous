@@ -20,4 +20,4 @@ I have been lucky enough to visit this island for a work retreat a couple times!
 
 <!--more-->
 
-[Contact me on Instagram to order!](https://www.instagram.com/p/C9Nd-QPPew1/)
+{{< orderform >}}
