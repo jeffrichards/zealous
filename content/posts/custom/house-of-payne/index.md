@@ -7,19 +7,21 @@ categories:
 tags:
   - HRM
 ---
+This image represents my journey of self-love. Realizing that both my light and my dark side make me who I am. They both give me strength and are essential for personal growth and self-acceptance.” ~ Trainer Tanna Payne
 
-Welcome to the House of Payne...
 <!--more-->
+The light side symbolizes positivity, compassion, joy, laughter, fun, and empathy. Light that inspires (self and those around you). The dark side encompasses the complexities of our fears, vulnerabilities, and imperfections, managing depression and crippling anxiety. Yet, these often hold valuable lessons of strength, grit, and resilience. 
 
-This is the good kind of Payne, that which makes us Stronger Together.
+By understanding and embracing both aspects, you can be the most authentic version of yourself. You can create an emotional strength that allows you to look at yourself with confidence and grace.
+
 
 ## T-Shirt 
-Seen above is Unisex soft cotton T-shirt with Trainer Tanna's "House of Payne" skull on front centre of T-shirt, and Stronger Together on sleeve.
+Unisex soft cotton T-shirt with Trainer Tanna's "House of Payne" skull on front centre of T-shirt, and Stronger Together on sleeve.
+![Unisex heavy cotton crewneck sweatshirt with Trainer Tanna's 'House of Payne' skull on back of sweatshirt, and Stronger Together on chest.](tshirt.jpg "Unisex heavy cotton crewneck sweatshirt with Trainer Tanna's 'House of Payne' skull on back of sweatshirt, and Stronger Together on chest.")
 
 ## Sweatshirt
-Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne' skull on front pocket of sweatpants.
-![Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne' skull on front pocket of sweatpants.
-](sweatshirt.jpg "Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne' skull on front pocket of sweatpants.")
+Unisex heavy cotton crewneck sweatshirt with Trainer Tanna's "House of Payne" skull on back of sweatshirt, and Stronger Together on chest.
+![Unisex heavy cotton crewneck sweatshirt with Trainer Tanna's 'House of Payne' skull on back of sweatshirt, and Stronger Together on chest.](sweatshirt.jpg "Unisex heavy cotton crewneck sweatshirt with Trainer Tanna's 'House of Payne' skull on back of sweatshirt, and Stronger Together on chest.")
 
 ## Sweatpants
 Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne' skull on front pocket of sweatpants.
@@ -63,7 +65,7 @@ Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne
       <td>
         <select id="os1" name="os1" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
           <option value="XS">
-            XS
+            XS - T-shirt only
           </option>
           <option value="Small" selected>
             Small
@@ -80,6 +82,9 @@ Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne
           <option value="2XL">
             2XL
           </option>
+          <option value="3XL">
+            3XL
+          </option>
         </select>
       </td>
     </tr>
@@ -92,35 +97,8 @@ Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne
     <tr>
       <td>
         <select id="os2" name="os2" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
-          <option value="Black">
+          <option value="Black" selected>
             Black
-          </option>
-          <option value="Grey">
-            Grey
-          </option>
-          <option value="Green">
-            Green
-          </option>
-          <option value="Red">
-            Red
-          </option>
-          <option value="Maroon">
-            Maroon
-          </option>
-          <option value="Navy">
-            Navy
-          </option>
-          <option value="Heather Grey">
-            Heather Grey
-          </option>
-          <option value="Purple">
-            Purple
-          </option>
-          <option value="Royal Blue">
-            Royal Blue
-          </option>
-          <option value="Pink">
-            Pink
           </option>
         </select>
       </td>
@@ -161,15 +139,15 @@ Unisex large fitting, drawstring sweatpants with Trainer Tanna's 'House of Payne
       let itemName = document.getElementById("item_name");
       console.log(
         design.innerText + " " + 
-        shirtStyle.options[shirtStyle.selectedIndex].value + " " + 
         shirtSize.options[shirtSize.selectedIndex].value + " " + 
-        shirtColor.options[shirtColor.selectedIndex].value
+        shirtColor.options[shirtColor.selectedIndex].value + " " + 
+        shirtStyle.options[shirtStyle.selectedIndex].value
       )
       itemName.setAttribute('value', 
         design.innerText + " " + 
-        shirtStyle.options[shirtStyle.selectedIndex].value + " " + 
         shirtSize.options[shirtSize.selectedIndex].value + " " + 
-        shirtColor.options[shirtColor.selectedIndex].value
+        shirtColor.options[shirtColor.selectedIndex].value + " " + 
+        shirtStyle.options[shirtStyle.selectedIndex].value
       )
     }
     function toggleLocalPickup() {
