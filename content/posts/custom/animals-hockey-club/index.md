@@ -8,19 +8,21 @@ tags:
   -
 ---
 
-Animals Hockey Club and Support Network come get your shirts to support the team!
+Animals Hockey Club come get your shirts to support the team!
 
 <!--more-->
+
+
 ## T-Shirt 
-Unisex soft cotton T-shirt in Grey or Black with the Animals Hockey Club logo on the left chest.
+Unisex soft cotton T-shirt in Grey or Black with the [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.
 ![Animals Hockey Club Tshirt in Grey and Black](animals-tshirt.jfif "Animals Hockey Club Tshirt in Grey and Black")
 
 ## Sweatshirt
-Shown above, Unisex heavy cotton crewneck sweatshirt.  Black with the Animals Hockey Club logo on the left chest.
+Shown above, Unisex heavy cotton crewneck sweatshirt.  Black with the [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.
 ![Animals Hockey Club sweatshirt in Black](animals-sweater.jfif "Animals Hockey Club sweatshirt in Black")
 
 ## Hoodies
-Unisex heavy cotton hoodie in Black.  Animals Hockey Club Logo on the left chest and centered on the back.
+Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) Logo on the left chest and centered on the back.
 ![Animals Hockey Club Hoodie in Black](animals-hoodies.jfif "Animals Hockey Club Hoodie in Black")
 
 
