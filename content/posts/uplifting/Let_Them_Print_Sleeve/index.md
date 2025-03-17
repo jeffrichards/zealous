@@ -5,7 +5,7 @@ date: 2022-02-17T11:38:31-08:00
 #author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: mental-stillness.jpg
+cover: LetThemSleevePrint.jpg
 categories:
   - uplifting
 tags:
