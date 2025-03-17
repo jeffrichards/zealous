@@ -41,22 +41,22 @@ Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagra
     <tr>
       <td>
         <select id="os0" name="os0" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
-          <option value="Youth T-Shirt">
+          <option value="25Y">
             Youth T-Shirt $25.00 CAD
           </option>
-          <option value="Youth Sweatshirt">
+          <option value="40Y">
             Youth Crewneck Sweatshirt $40.00 CAD
           </option>
-          <option value="Youth Hoodie">
+          <option value="45Y">
             Youth Hoodie $45.00 CAD
           </option>
-           <option value="Adult T-Shirt">
+           <option value="25A">
             Adult T-Shirt $25.00 CAD
           </option>
-          <option value="Adult Sweatshirt">
+          <option value="40A">
             Adult Crewneck Sweatshirt $40.00 CAD
           </option>
-          <option value="Adult Hoodie">
+          <option value="45A">
             Adult Hoodie $45.00 CAD
           </option>
         </select>
