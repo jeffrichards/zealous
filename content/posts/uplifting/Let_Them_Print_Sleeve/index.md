@@ -5,7 +5,7 @@ date: 2025-03-16T11:38:31-08:00
 #author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: LetThemSleevePrint.jpg
+cover: LetThemSleevePrint2.jpg
 categories:
   - uplifting
 tags:
