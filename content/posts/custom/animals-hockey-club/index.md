@@ -30,7 +30,7 @@ Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagra
 <h2 id="order_now"> Order Now!</h2>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" id="hosted_button_id" name="hosted_button_id" value="2XDCXC48293TJ" />
+  <input type="hidden" id="hosted_button_id" name="hosted_button_id" value="A2BTZSU4V56LU" />
   <table class="not-prose">
     <tr>
       <td>
@@ -132,8 +132,8 @@ Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagra
     </tr>
 
   </table>
-  <input type="hidden" id ="item_name" name="item_name" value="House of Payne">
-  <input type="hidden" id ="os4" name="os4" value="House of Payne">
+  <input type="hidden" id ="item_name" name="item_name" value="Animals Hockey">
+  <input type="hidden" id ="os4" name="os4" value="HAnimals Hockey">
   <input type="hidden" name="currency_code" value="CAD" />
   <input style="margin-top:10px" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" onClick="updateItemName()"/>
   <div>Shipping Costs Calculated at Checkout</div>
@@ -161,7 +161,7 @@ Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagra
       )
     }
     function toggleLocalPickup() {
-      const shippingButtonID="2XDCXC48293TJ"
+      const shippingButtonID="A2BTZSU4V56LU"
       const freeShippingButtonID="ZWFF9QBX8ZAPE"
       let shippingState = document.getElementById("hosted_button_id");
       let shippingPrompt = document.getElementById("no_shipping");
