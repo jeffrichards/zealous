@@ -1,7 +1,7 @@
 ---
 title: Nurse Designs
 date: 2020-03-12T11:38:31-08:00
-cover: InfusingCourage.png
+cover: InfusingCourage.jpg
 categories:
   - custom
 tags:
@@ -15,6 +15,7 @@ Nurse Designs!
 
 ## Infusing Courage T-Shirt 
 Unisex soft cotton T-shirt in Pink, Black, or Jade.  
+(InfusingCourage.jpg)
 ![Animals Hockey Club Tshirt in Grey and Black](animals-tshirt.jfif "Animals Hockey Club Tshirt in Grey and Black")
 
 ## Infusing Love T-Shirt
