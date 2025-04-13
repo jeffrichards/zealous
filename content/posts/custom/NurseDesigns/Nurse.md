@@ -1,7 +1,7 @@
 ---
-title: Animals Hockey Club
+title: Nurse Designs
 date: 2020-03-12T11:38:31-08:00
-cover: animals-hoodie-back.jpg
+cover: InfusingCourage.png
 categories:
   - custom
 tags:
@@ -13,16 +13,16 @@ Nurse Designs!
 <!--more-->
 
 
-## T-Shirt 
-Unisex soft cotton T-shirt in Grey or Black with the [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.  Adult & youth sizes available.
+## Infusing Courage T-Shirt 
+Unisex soft cotton T-shirt in Pink, Black, or Jade.  
 ![Animals Hockey Club Tshirt in Grey and Black](animals-tshirt.jfif "Animals Hockey Club Tshirt in Grey and Black")
 
-## Sweatshirt
-Shown above, unisex heavy cotton crewneck sweatshirt.  Black with the [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.  Adult & youth sizes available.
+## Infusing Love T-Shirt
+Unisex soft cotton T-shirt in Pink, Black, or Jade. [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.  
 ![Animals Hockey Club sweatshirt in Black](animals-sweater.jfif "Animals Hockey Club sweatshirt in Black")
 
-## Hoodies
-Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) Logo on the left chest and centered on the back.  Adult & youth sizes available.
+## Infusing Strength
+Unisex soft cotton T-shirt in Pink, Black, or Jade.  [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) 
 ![Animals Hockey Club Hoodie in Black](animals-hoodies.jfif "Animals Hockey Club Hoodie in Black")
 
 
@@ -41,23 +41,11 @@ Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagra
     <tr>
       <td>
         <select id="os0" name="os0" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
-          <option value="Youth T-Shirt">
-            Youth T-Shirt $25.00 CAD
-          </option>
-          <option value="Youth Crewneck">
-            Youth Crewneck Sweatshirt $40.00 CAD
-          </option>
-          <option value="outh Hoodie">
-            Youth Hoodie $45.00 CAD
-          </option>
            <option value="Adult T-Shirt">
             Adult T-Shirt $25.00 CAD
           </option>
           <option value="Adult Crewneck">
             Adult Crewneck Sweatshirt $40.00 CAD
-          </option>
-          <option value="Adult Hoodie">
-            Adult Hoodie $45.00 CAD
           </option>
         </select>
       </td>
