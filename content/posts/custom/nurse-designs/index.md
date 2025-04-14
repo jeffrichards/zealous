@@ -99,6 +99,9 @@ Unisex soft cotton T-shirt in Pink, Black, or Jade.
           <option value="Jade" >
             Jade
           </option>
+           <option value="White" >
+            White
+          </option>
         </select>
       </td>
     </tr>
