@@ -136,6 +136,7 @@ Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagra
   <input type="hidden" id ="os4" name="os4" value="HAnimals Hockey">
   <input type="hidden" name="currency_code" value="CAD" />
   <input style="margin-top:10px" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" onClick="updateItemName()"/>
+  </form>
   <div>Shipping Costs Calculated at Checkout</div>
   <script>
     let designName = document.getElementById("title");

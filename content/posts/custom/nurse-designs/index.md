@@ -1,52 +1,49 @@
 ---
 title: Nurse Designs
-date: 2020-03-12T11:38:31-08:00
-cover: InfusingCourage.jpg
+date: 2020-04-02T11:38:31-08:00
+cover: InfusingCourage.png
 categories:
   - custom
 tags:
-  -
 ---
 
 Nurse Designs!
-
 <!--more-->
 
-
 ## Infusing Courage T-Shirt 
-Unisex soft cotton T-shirt in Pink, Black, or Jade.  
-(InfusingCourage.jpg)
-![Animals Hockey Club Tshirt in Grey and Black](animals-tshirt.jfif "Animals Hockey Club Tshirt in Grey and Black")
+Shown Above!  Unisex soft cotton T-shirt in Pink, Black, or Jade.  
+
 
 ## Infusing Love T-Shirt
-Unisex soft cotton T-shirt in Pink, Black, or Jade. [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.  
-![Animals Hockey Club sweatshirt in Black](animals-sweater.jfif "Animals Hockey Club sweatshirt in Black")
+Unisex soft cotton T-shirt in Pink, Black, or Jade.
+![Unisex soft cotton T-shirt with Full Chest Image: "Infusing Love" and picture of IV Bag with a heart](InfusingLove.png "Unisex soft cotton T-shirt with Full Chest Image: 'Infusing Love' and picture of IV Bag with a heart")
 
-## Infusing Strength
-Unisex soft cotton T-shirt in Pink, Black, or Jade.  [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) 
-![Animals Hockey Club Hoodie in Black](animals-hoodies.jfif "Animals Hockey Club Hoodie in Black")
-
-
+## Infusing Strength T-Shirt
+Unisex soft cotton T-shirt in Pink, Black, or Jade.  
+![Unisex soft cotton T-shirt with Full Chest Image: "Infusing Strength" and picture of IV Bag with a heart](InfusingStrength.png "Unisex soft cotton T-shirt with Full Chest Image: 'Infusing Strength' and picture of IV Bag with a heart")
 
 <h2 id="order_now"> Order Now!</h2>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" id="hosted_button_id" name="hosted_button_id" value="A2BTZSU4V56LU" />
+  <input type="hidden" id="hosted_button_id" name="hosted_button_id" value="HX29CRW3KYGQQ" />
   <table class="not-prose">
-    <tr>
+      <tr>
       <td>
-        <input type="hidden" name="on0" value="Style"/>
-        <strong>Style</strong>
+        <input type="hidden" name="on4" value="Variety"/>
+        <strong>Variety</strong>
       </td>
     </tr>
     <tr>
       <td>
-        <select id="os0" name="os0" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
-           <option value="Adult T-Shirt">
-            Adult T-Shirt $25.00 CAD
+        <select id="os4" name="os4" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
+           <option value="Infusing Courage">
+            Infusing Courage Adult T-Shirt $25.00 CAD
           </option>
-          <option value="Adult Crewneck">
-            Adult Crewneck Sweatshirt $40.00 CAD
+          <option value="Infusing Love">
+            Infusing Love Adult T-Shirt $25.00 CAD
+          </option>
+          <option value="Infusing Strength">
+            Infusing Strength Adult T-Shirt $25.00 CAD
           </option>
         </select>
       </td>
@@ -61,7 +58,7 @@ Unisex soft cotton T-shirt in Pink, Black, or Jade.  [Animals Hockey Club](https
       <td>
         <select id="os1" name="os1" class="input input-bordered" style="appearance:auto; -webkit-appearance: auto" onChange="updateItemName()">
           <option value="XS">
-            XS - T-shirt only
+            XS
           </option>
           <option value="Small" selected>
             Small
@@ -96,8 +93,11 @@ Unisex soft cotton T-shirt in Pink, Black, or Jade.  [Animals Hockey Club](https
           <option value="Black" selected>
             Black
           </option>
-          <option value="Grey" >
-            Grey (T-shirt only)
+          <option value="Pink" >
+            Pink
+          </option>
+          <option value="Jade" >
+            Jade
           </option>
         </select>
       </td>
@@ -121,37 +121,38 @@ Unisex soft cotton T-shirt in Pink, Black, or Jade.  [Animals Hockey Club](https
     </tr>
 
   </table>
-  <input type="hidden" id ="item_name" name="item_name" value="Animals Hockey">
-  <input type="hidden" id ="os4" name="os4" value="HAnimals Hockey">
+  <input type="hidden" id ="item_name" name="item_name" value="Infusing">
+  <input type="hidden" name="on0" value="Style"/>
+  <input type="hidden" name="os0" value="Women's T-shirt">
   <input type="hidden" name="currency_code" value="CAD" />
   <input style="margin-top:10px" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" onClick="updateItemName()"/>
+</form>
   <div>Shipping Costs Calculated at Checkout</div>
   <script>
-    let designName = document.getElementById("title");
-    let designNameField = document.getElementById("os4");
-    designNameField.setAttribute('value',designName.innerText)
+    //let designName = document.getElementById("title");
+    //let designNameField = document.getElementById("os4");
+    //designNameField.setAttribute('value',designName.innerText)
     function updateItemName() {
       let design = document.getElementById("title");
+      let designName = document.getElementById("os4");
       let shirtStyle = document.getElementById("os0");
       let shirtSize = document.getElementById("os1");
       let shirtColor = document.getElementById("os2");
       let itemName = document.getElementById("item_name");
       console.log(
-        design.innerText + " " + 
+        designName.options[designName.selectedIndex].value + " " + 
         shirtSize.options[shirtSize.selectedIndex].value + " " + 
-        shirtColor.options[shirtColor.selectedIndex].value + " " + 
-        shirtStyle.options[shirtStyle.selectedIndex].value
+        shirtColor.options[shirtColor.selectedIndex].value 
       )
       itemName.setAttribute('value', 
-        design.innerText + " " + 
+        designName.options[designName.selectedIndex].value + " " + 
         shirtSize.options[shirtSize.selectedIndex].value + " " + 
-        shirtColor.options[shirtColor.selectedIndex].value + " " + 
-        shirtStyle.options[shirtStyle.selectedIndex].value
+        shirtColor.options[shirtColor.selectedIndex].value
       )
     }
     function toggleLocalPickup() {
-      const shippingButtonID="A2BTZSU4V56LU"
-      const freeShippingButtonID="NYYVRJTNVXB74"
+      const shippingButtonID="HX29CRW3KYGQQ"
+      const freeShippingButtonID="693HB3DUBKZPY"
       let shippingState = document.getElementById("hosted_button_id");
       let shippingPrompt = document.getElementById("no_shipping");
       if (shippingState.value == shippingButtonID) {
