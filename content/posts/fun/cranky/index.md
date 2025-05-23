@@ -14,4 +14,4 @@ Hopefully you don't get CRANKY, but sometimes it just happens when you lose one,
 <!--more-->
 
 
-{{< orderform >}}
+{{< add-to-cart delivered="NS6T5LGXXUU78" pickup="4G4SV5FCF6AES" >}}

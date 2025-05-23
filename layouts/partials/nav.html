@@ -1,3 +1,4 @@
+<script src="https://www.paypalobjects.com/ncp/sb/cart/cart.js" data-merchant-id="UKYFLS3Y94686"></script>
 {{ if site.Params.stickyNav }}
 <nav x-data="{ isSticky: false }"
   x-init="window.addEventListener('scroll', () => { isSticky = window.scrollY > 30 })"
@@ -41,6 +42,11 @@
       </ul>
     </div>
     <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      <!--<paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
+      <script>
+        cartPaypal.Cart({ id: "pp-view-cart" })
+      </script>
+    -->
       {{ with site.GetPage "/about" }}
       {{ $aboutPages := .Resources.ByType "page" }}
       {{ if gt (len $aboutPages) 0 }}
@@ -72,6 +78,12 @@
       {{ range $items }}
       {{ partial "renderNavItem.html" . }}
       {{ end }}
+
+      <!--<paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
+      <script>
+        cartPaypal.Cart({ id: "pp-view-cart" })
+      </script>
+    -->
 
       <div class="dropdown dropdown-end dropdown-hover">
         <div tabindex="0" role="button" class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" aria-label="Select an option">
