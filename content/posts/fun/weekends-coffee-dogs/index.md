@@ -11,4 +11,4 @@ tags:
 <!--more-->
 
 
-{{< orderform >}}
+{{< add-to-cart delivered="C6SGVXBNRS2C6" pickup="ANQYRR58UQELE" >}}

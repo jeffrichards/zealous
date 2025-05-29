@@ -14,5 +14,4 @@ I have had the most patient mama waiting for this shirt💙. She loves watching 
 
 <!--more-->
 
-
-{{< orderform >}}
+{{< add-to-cart delivered="PY8AY3XGEENEE" pickup="YV6CFFPGVA32G" >}}

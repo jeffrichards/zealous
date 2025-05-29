@@ -9,8 +9,8 @@ tags:
   - 
 ---
 
-French is fun
+French is fun ;-)
 
 <!--more-->
 
-{{< orderform >}}
+{{< add-to-cart delivered="HD34XB6GD7C4L" pickup="695MPH2BPE4VC" >}}

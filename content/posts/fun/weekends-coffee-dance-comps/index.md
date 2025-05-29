@@ -13,4 +13,4 @@ Snag one for you and you buddy!
 <!--more-->
 
 
-{{< orderform >}}
+{{< add-to-cart delivered="8SFVHVSFY6C9N" pickup="ES3EXVRJMKZ94" >}}

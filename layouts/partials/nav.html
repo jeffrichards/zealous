@@ -1,4 +1,4 @@
-<script src="https://www.paypalobjects.com/ncp/sb/cart/cart.js" data-merchant-id="UKYFLS3Y94686"></script>
+<script src="https://www.paypalobjects.com/ncp/cart/cart.js" data-merchant-id="LDTENTTNRF854"></script>
 {{ if site.Params.stickyNav }}
 <nav x-data="{ isSticky: false }"
   x-init="window.addEventListener('scroll', () => { isSticky = window.scrollY > 30 })"
@@ -42,11 +42,10 @@
       </ul>
     </div>
     <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
-      <!--<paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
+      <paypal-cart-button data-id="pp-view-cart"></paypal-cart-button>
       <script>
         cartPaypal.Cart({ id: "pp-view-cart" })
       </script>
-    -->
       {{ with site.GetPage "/about" }}
       {{ $aboutPages := .Resources.ByType "page" }}
       {{ if gt (len $aboutPages) 0 }}

@@ -15,4 +15,4 @@ Available in all sizes and colours, even in ice dye!
 <!--more-->
 
 
-{{< orderform >}}
+{{< add-to-cart delivered="Q4C5GT6Y6UJEL" pickup="V65F79QR2XDM6" >}}

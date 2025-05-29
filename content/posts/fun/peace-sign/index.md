@@ -14,4 +14,4 @@ It makes me happy every dang time I lift the screen!
 
 <!--more-->
 
-{{< orderform >}}
+{{< add-to-cart delivered="W4DQSQTN9C37G" pickup="F8KWRPEZYPXTN" >}}
