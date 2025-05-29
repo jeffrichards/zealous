@@ -14,4 +14,4 @@ I had a request to make this super cute "be kind" design, so I thought I would p
 Message me your size/style/design choice to get yours💗!
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="BKTX3EBPAC5NN" pickup="MGY3CYHRNLH3G" >}}

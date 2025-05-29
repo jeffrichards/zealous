@@ -11,4 +11,4 @@ Zealous for Schools! École Oceane! Teaser... school hoodie fundraiser coming up
 <!--more-->
 
 
-{{< orderform >}}
+{{< add-to-cart delivered="D4XD4T8FHMXHS" pickup="KMRAW7GZWTQG6" >}}

@@ -19,5 +19,4 @@ Have you been to Lasqueti?!
 I have been lucky enough to visit this island for a work retreat a couple times!
 
 <!--more-->
-
-{{< orderform >}}
+{{< add-to-cart delivered="FLG6NQR4HJ74E" pickup="747E7KVWB6AUU" >}}

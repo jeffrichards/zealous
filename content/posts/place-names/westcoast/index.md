@@ -18,4 +18,4 @@ WESTCOAST print is poppin'!!!
 Who wants one!
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="SYTPZHUMHH63Q" pickup="NLNFPQ7JC7ZQ2" >}}

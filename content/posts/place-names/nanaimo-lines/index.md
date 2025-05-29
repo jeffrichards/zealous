@@ -23,4 +23,4 @@ Our island is so rippin' awesome and #Nanaimo is a big part of this island that 
 Boom #Nanaimo is awesome!
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="RBFM7M6EDMG5J" pickup="72N9YQYKWVCRA" >}}

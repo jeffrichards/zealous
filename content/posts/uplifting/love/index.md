@@ -14,4 +14,4 @@ Message me to order yours!👍🌊🌸❤️
 Spread a little love lovelies, everywhere you go! 💛
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="B4ZD3U5PJPKH4" pickup="VV4VMPZ4ZLHTE" >}}

@@ -21,4 +21,4 @@ How good does it feel to be at the beach, hearing the water move, feeling the fr
 
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="ABWXNBELNYMC6" pickup="XHQGD73D866XY" >}}

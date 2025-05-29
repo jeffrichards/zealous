@@ -10,5 +10,4 @@ tags:
 Prints for Dance Academy! Tempo Dance Academy!
 <!--more-->
 
-
-{{< orderform >}}
+{{< add-to-cart delivered="RMGDQHNUFQ2S8" pickup="98R3J9UA4YBUU" >}}

@@ -19,6 +19,4 @@ tags:
 This dream of me riding on a killer whale still tops the charts. What was your fav dream about?! I'm curious! My current dreams have all been about work...bring back the whale dreams brain!
 
 <!--more-->
-[Order on Etsy](https://www.etsy.com/ca/listing/1012890162/whale-rider-womens-tank-top)
-
-{{< orderform >}}
+{{< add-to-cart delivered="425YHFAU58H94" pickup="TVBAF3FW8GFQG" >}}

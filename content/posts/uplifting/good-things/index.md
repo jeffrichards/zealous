@@ -12,4 +12,4 @@ Zealous for #TheGood
 Life is heavy sometimes, we need reminders to remember the good things in life.
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="KYACZXP45R9HL" pickup="9YKQVF8WA6BFC" >}}

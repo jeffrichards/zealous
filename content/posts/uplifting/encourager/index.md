@@ -12,4 +12,4 @@ Encourager Print!!
 You can do it, whatever it is, give it a go!
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="684MJM5UR6BM6" pickup="8FGTMBWVSJ6H2" >}}

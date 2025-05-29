@@ -20,4 +20,4 @@ tags:
 How good does it feel to be at the beach, hearing the water move, feeling the fresh breeze on your face, man I just love it. I am so thankful to live by the ocean.
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="5QFT4EQQKABVW" pickup="BDZLBRUFZLBNY" >}}

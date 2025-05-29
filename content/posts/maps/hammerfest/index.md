@@ -20,4 +20,4 @@ Who has ridden on these awesome trails? Can anyone name a trail??? Dare ya to tr
 
 <!--more-->
 
-{{< orderform >}}
+{{< add-to-cart delivered="LT8WFL5DHT4WC" pickup="TGAAZLUK2BVWG" >}}

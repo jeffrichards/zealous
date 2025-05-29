@@ -12,4 +12,4 @@ Need a pink shirt for...tomorrow's Pink Shirt Day?!
 I just printed on whatever pink t shirts I had in stock here. If you need one, I am your dealer!
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="JLQV4XNPBJJ4Q" pickup="MCUQ9AX832NAG" >}}

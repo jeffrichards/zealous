@@ -14,4 +14,4 @@ tags:
 Ladysmith, 49th Parallel.
 
 <!--more-->
-{{< orderform >}}
+{{< add-to-cart delivered="WE6MK3VV9C46S" pickup="U4NYJQK4TRMGQ" >}}

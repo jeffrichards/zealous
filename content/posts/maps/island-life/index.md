@@ -17,4 +17,4 @@ Am I the only one feeling the need to get some presents in order so I am not scr
 
 Maybe it's just me, but if you are planning ahead, these are great prezzies. T-shirts and tanks available $25 each
 Have an awesome day on this beautiful island of ours! 
-{{< orderform >}}
+{{< add-to-cart delivered="9VBUAR6SJ678Y" pickup="WJNVW2EPEBBN4" >}}

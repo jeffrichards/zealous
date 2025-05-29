@@ -22,4 +22,4 @@ Tell me if you have been and what your favourite thing about Quadra is? Rebecca 
 
 <!--more-->
 
-{{< orderform >}}
+{{< add-to-cart delivered="CKUPRLD8P6XKA" pickup="WUDYVHMU3Q4JQ" >}}

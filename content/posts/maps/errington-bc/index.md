@@ -20,5 +20,4 @@ This was a cool mapping shirt I made because I incorporated rivers (thicker line
 
 <!--more-->
 
-
-{{< orderform >}}
+{{< add-to-cart delivered="C8XNDM4R6R3YN" pickup="VJWT8MSKX7V4N" >}}
