@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-Prints for Dance Academy! Tempo Dance Academy Zippy! Black Only!
+Tempo Dance Academy Zippy!
 <!--more-->
 ![Tempo Dance Academy Zippy Front](tempo-dance-zippy-front.jpg "Tempo Dance Academy Zippy Front")
 {{< add-to-cart pickup="ZHF583XNK5ZVS" >}}
