@@ -49,10 +49,15 @@
 
 <!-- Tab links -->
 <div class="tab">
+  {{ if .Params.delivered }}
   <button class="tablinks active" onclick="openOption(event, 'Delivery')">Delivery</button>
-  <button class="tablinks" onclick="openOption(event, 'Pickup')">Pickup</button>
+  {{ end }}
+  {{ if .Params.pickup }}
+  <button class="tablinks {{ if not .Params.delivered }} active {{ end }}" onclick="openOption(event, 'Pickup')">Pickup</button>
+  {{ end }}
 </div>
 
+{{ if .Params.delivered}}
 <div id="Delivery" class="tabcontent" style="display:block">
 <paypal-add-to-cart-button data-id='{{ .Params.delivered }}'></paypal-add-to-cart-button>
 <script>
@@ -65,8 +70,10 @@ cartPaypal.Cart({ id: "pp-view-cart" })
 
 <div>Shipping calculated at checkout.</div>
 </div>
+{{ end }}
 
-<div id="Pickup" class="tabcontent">
+{{ if .Params.pickup}}
+<div id="Pickup" class="tabcontent" {{ if not .Params.delivered }} style="display:block" {{ end }}>
 
 <paypal-add-to-cart-button data-id='{{ .Params.pickup }}'></paypal-add-to-cart-button>
 <script>
@@ -78,6 +85,7 @@ cartPaypal.Cart({ id: "pp-view-cart" })
 </script>
 <div>No shipping fees for local pickup.</div>
 </div>
+{{ end }}
 
 
 <script>

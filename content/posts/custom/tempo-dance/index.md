@@ -1,13 +1,13 @@
 ---
 title: Tempo Dance Academy
-date: 2022-07-01T11:38:31-08:00
-cover: tempo-dance.png
+date: 2025-01-22T11:38:31-08:00
+cover: tempo-dance-zippy-back.jpg
 categories:
   - custom
 tags:
 ---
 
-Prints for Dance Academy! Tempo Dance Academy!
+Prints for Dance Academy! Tempo Dance Academy Zippy! Black Only!
 <!--more-->
-
-{{< add-to-cart delivered="RMGDQHNUFQ2S8" pickup="98R3J9UA4YBUU" >}}
+![Tempo Dance Academy Zippy Front](tempo-dance-zippy-front.jpg "Tempo Dance Academy Zippy Front")
+{{< add-to-cart pickup="ZHF583XNK5ZVS" >}}
