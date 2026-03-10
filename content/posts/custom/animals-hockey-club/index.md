@@ -26,4 +26,4 @@ Unisex heavy cotton hoodie in Black.  [Animals Hockey Club](https://www.instagra
 ![Animals Hockey Club Hoodie in Black](animals-hoodies.jfif "Animals Hockey Club Hoodie in Black")
 
 
-{{< add-to-cart delivered="7P53PFKHWM9XQ" pickup="BF8KPDKNUFDRJ" >}}
+{{< add-to-cart pickup="BF8KPDKNUFDRJ" >}}
