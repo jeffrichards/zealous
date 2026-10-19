@@ -18,7 +18,7 @@ Unisex soft cotton T-shirt in Grey or Black with the [Animals Hockey Club](https
 ![Animals Hockey Club Tshirt in Grey and Black](animals-tshirt.jfif "Animals Hockey Club Tshirt in Grey and Black")
 
 ## Sweatshirt
-Shown above, unisex heavy cotton crewneck sweatshirt.  Black with the [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.  Adult & youth sizes available.
+Unisex heavy cotton crewneck sweatshirt.  Black with the [Animals Hockey Club](https://www.instagram.com/animalshockeyclub/) logo on the left chest.  Adult & youth sizes available.
 ![Animals Hockey Club sweatshirt in Black](animals-sweater.jfif "Animals Hockey Club sweatshirt in Black")
 
 ## Hoodies
